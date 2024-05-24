@@ -15,7 +15,7 @@ Welcome to the **Herox Linux** repository! This is where coding meets heroism, a
 
 ## Introduction
 
-Meet Linus Torvald, the hero we never knew we needed. When he's not busy developing operating systems, he's saving the world from bugs and crashes. This project showcases his extraordinary skills and the tools he uses to keep our digital world safe.
+Meet Linux, the hero we never knew we needed. When it's not busy running operating systems, it's saving the world from bugs and crashes. This project showcases its extraordinary capabilities and the tools it uses to keep our digital world safe.
 
 ## Features
 
@@ -90,18 +90,18 @@ To get started with this project, follow these simple steps:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/herox-linus-torvald.git
+   git clone https://github.com/username/herox-linux.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd herox-linus-torvald
+   cd herox-linux
    ```
 3. Open it:
    ```sh
    nvim .
    ```
 
-Watch as Linus performs his coding magic!
+Watch as Linux performs its coding magic!
 
 ## Contributing
 
